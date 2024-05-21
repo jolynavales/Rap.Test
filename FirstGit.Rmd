@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## My analysis that will be automated
 
-# Data analysis
+# Data loading
 We provide here some basic elements about the data set and descriptive statistics on some variables of interest.  
 
 * First we load the data
